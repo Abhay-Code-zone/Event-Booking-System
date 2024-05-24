@@ -207,3 +207,5 @@ This is fragment 6 of 20. The complete story emerges when all fragments are read
 <!-- Fragment 6 whispers: 141 -->
 
 <!-- Fragment 6 whispers: 142 -->
+
+<!-- Fragment 6 whispers: 143 -->
